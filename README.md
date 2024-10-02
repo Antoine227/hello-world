@@ -1,1 +1,4 @@
-C'est important
+Harder
+Better
+Faster
+Stronger
